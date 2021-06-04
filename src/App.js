@@ -127,7 +127,7 @@ export default function App() {
     return (
         <div className="flex flex-col h-full bg-white dark:bg-coolDark-500 dark:text-white transition-colors">
             <header className="flex-shrink-0 flex items-center justify-between px-4 sm:px-8 shadow-md" style={{ height: 'var(--topbar-height)' }}>
-                <a href="#">
+                <a href="/">
                     <img src={brandLogo} alt="AlterClass" width={150} />
                 </a>
                 <div className="flex items-center">
